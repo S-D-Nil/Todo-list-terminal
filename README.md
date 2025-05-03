@@ -1,2 +1,2 @@
 # Todo
-Todo list app
+Todo list app terminal version 
